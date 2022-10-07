@@ -1,4 +1,8 @@
 test
 modif1
+<<<<<<< HEAD
 modif3et4
 
+=======
+modif2
+>>>>>>> bugFix
